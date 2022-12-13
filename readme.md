@@ -1,1 +1,1 @@
-# Simple website content or showing hostname
+# Simple website content for showing hostname
